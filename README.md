@@ -6,7 +6,7 @@ This project is a simple command-line credential manager written in the Rust pro
 
 My goal in writing this software was to deepen my understanding of the core syntax and language features of Rust by building a practical tool. This project helped me get hands-on with structs, HashMaps, pattern matching, ownership, borrowing, and user input. It gave me a chance to really wrestle with the Rust compiler and learn how to work with its strict safety and memory model.
 
-[Software Demo Video](DONT FORGET TO ADD ME!!!!!!)
+[Software Demo Video](https://youtu.be/dZSEXUIQ9iI)
 
 
 ### Development Environment
